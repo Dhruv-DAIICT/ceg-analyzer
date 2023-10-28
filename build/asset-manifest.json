@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ceg-analyzer/static/css/main.63c7b50e.css",
+    "main.js": "/ceg-analyzer/static/js/main.ce39b2dc.js",
+    "static/js/787.24426799.chunk.js": "/ceg-analyzer/static/js/787.24426799.chunk.js",
+    "index.html": "/ceg-analyzer/index.html",
+    "main.63c7b50e.css.map": "/ceg-analyzer/static/css/main.63c7b50e.css.map",
+    "main.ce39b2dc.js.map": "/ceg-analyzer/static/js/main.ce39b2dc.js.map",
+    "787.24426799.chunk.js.map": "/ceg-analyzer/static/js/787.24426799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c7b50e.css",
+    "static/js/main.ce39b2dc.js"
+  ]
+}
