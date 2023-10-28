@@ -10,7 +10,7 @@ export default function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<FirstPage />} />
+          <Route path="https://dhruv-daiict.github.io/ceg-analyzer/" element={<FirstPage />} />
           <Route path="graph" element={<NewApp />} />
           <Route path="*" element={<NoPage />} />
         </Routes>
