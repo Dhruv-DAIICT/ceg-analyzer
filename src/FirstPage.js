@@ -35,7 +35,7 @@ function App() {
     if(isValidJSON(text)){
       navigate('/graph');
       localStorage.setItem("l_req",text);
-      window.location.reload();
+      // window.location.reload();
     }else{
       alert("Enter requirements in valid JSON format.");
     }
