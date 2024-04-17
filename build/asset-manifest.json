@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ceg-analyzer/static/css/main.63c7b50e.css",
-    "main.js": "/ceg-analyzer/static/js/main.4685f5d5.js",
-    "static/js/787.24426799.chunk.js": "/ceg-analyzer/static/js/787.24426799.chunk.js",
+    "main.css": "/ceg-analyzer/static/css/main.a33d1c63.css",
+    "main.js": "/ceg-analyzer/static/js/main.f47523b2.js",
+    "static/js/453.49db6d38.chunk.js": "/ceg-analyzer/static/js/453.49db6d38.chunk.js",
     "index.html": "/ceg-analyzer/index.html",
-    "main.63c7b50e.css.map": "/ceg-analyzer/static/css/main.63c7b50e.css.map",
-    "main.4685f5d5.js.map": "/ceg-analyzer/static/js/main.4685f5d5.js.map",
-    "787.24426799.chunk.js.map": "/ceg-analyzer/static/js/787.24426799.chunk.js.map"
+    "main.a33d1c63.css.map": "/ceg-analyzer/static/css/main.a33d1c63.css.map",
+    "main.f47523b2.js.map": "/ceg-analyzer/static/js/main.f47523b2.js.map",
+    "453.49db6d38.chunk.js.map": "/ceg-analyzer/static/js/453.49db6d38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c7b50e.css",
-    "static/js/main.4685f5d5.js"
+    "static/css/main.a33d1c63.css",
+    "static/js/main.f47523b2.js"
   ]
 }
