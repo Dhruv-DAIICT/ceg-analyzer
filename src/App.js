@@ -16,7 +16,7 @@ export default function App() {
           <Route path="graph" element={<NewApp />} />
           <Route path="test-case" element={<TestCase />} />
           <Route path="minimization" element={<Minimization />} />
-          <Route path="*" element={<NoPage />} />
+          <Route path="*" element={<FirstPage />} />
         </Routes>
       </BrowserRouter>
     </>
